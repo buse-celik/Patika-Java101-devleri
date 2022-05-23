@@ -1,0 +1,1 @@
+System.out.println(sonuc > 60 ? "Sınıfı Geçti" : "Sınıfı Kaldı");
